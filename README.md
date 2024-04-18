@@ -85,5 +85,4 @@ This API does not include any authentication or authorization mechanisms.
 - Add authentication and authorization mechanisms to secure the API.
 - Explore the use of message queues or other asynchronous communication patterns to improve scalability and reliability.
 
-## License
-[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-yellow.svg)](https://github.com/dvlab-research/MiniGemini/blob/main/LICENSE)
+
